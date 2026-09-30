@@ -11,7 +11,7 @@ Before tech I worked in international arts, media and audio post-production acro
 four countries and four working languages. What carried over is the way of working:
 learn the domain, take an ambiguous problem, and see it through.
 
-AWS Certified (Cloud Practitioner · AI Practitioner). EU citizen, based in Berlin.
+AWS Certified Cloud Practitioner. EU citizen, based in Berlin.
 
 - 📫 guillermofiallo.jr@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/guillermo-fiallo-montero-734a87132/)
@@ -56,8 +56,9 @@ ECR, IAM) · Azure ML · GCP · Airflow · dbt · Snowflake · MongoDB · Redis 
 
 **Data Science & AI Diploma** — Ironhack, Berlin (2025–2026)
 **Diplom Bildende Kunst** (master's-level) — Media Arts, Leipzig Academy of Visual Arts
-**AWS Certified AI Practitioner** · **AWS Certified Cloud Practitioner** ·
-**Generative AI for Data Analysts** (IBM) · **Certified SQL Developer** (W3Schools)
+**AWS Certified Cloud Practitioner** (11/2025)
+**Generative AI for Data Analysts** — IBM (10/2025)
+**Certified SQL Developer, Professional Level** — W3Schools (05/2025)
 
 ## Languages
 
