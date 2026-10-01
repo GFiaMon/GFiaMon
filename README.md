@@ -22,16 +22,16 @@ AWS Certified Cloud Practitioner. EU citizen, based in Berlin.
 ## What I work with
 
 **AI & LLMs** — Prompt engineering · RAG · LLM-as-a-Judge evaluation · LangChain ·
-LangGraph · MCP servers & clients · Hugging Face · Vector DBs (Pinecone, Chroma) · LoRA
+LangGraph · MCP servers & clients · Hugging Face · Vector DBs (Pinecone, Chroma) · LoRA <br>
 **Machine Learning** — Regression · Classification · Clustering · Deep learning
-(CNNs, LSTM, Transformers) · NLP · Statistics · A/B testing
+(CNNs, LSTM, Transformers) · NLP · Statistics · A/B testing <br>
 **Document intelligence & OCR** — Vision language models · PyMuPDF · Tesseract ·
-image preprocessing
+image preprocessing <br>
 **MLOps & deployment** — MLflow (incl. MLflow GenAI) · Docker · Kubernetes · CI/CD ·
-Flask · Django · Celery · LangSmith · Streamlit · Gradio
+Flask · Django · Celery · LangSmith · Streamlit · Gradio <br>
 **Cloud & data engineering** — AWS (EC2, S3, RDS, Lambda, SageMaker, EventBridge,
-ECR, IAM) · Azure ML · GCP · Airflow · dbt · Snowflake · MongoDB · Redis · Neo4j
-**Languages & data** — Python · SQL · R · Bash · JavaScript
+ECR, IAM) · Azure ML · GCP · Airflow · dbt · Snowflake · MongoDB · Redis · Neo4j <br>
+**Languages & data** — Python · SQL · R · Bash · JavaScript <br>
 
 ---
 
@@ -54,11 +54,14 @@ ECR, IAM) · Azure ML · GCP · Airflow · dbt · Snowflake · MongoDB · Redis 
 
 ## Education & certifications
 
-**Data Science & AI Diploma** — Ironhack, Berlin (2025–2026)
-**Diplom Bildende Kunst** (master's-level) — Media Arts, Leipzig Academy of Visual Arts
-**AWS Certified Cloud Practitioner** (11/2025)
-**Generative AI for Data Analysts** — IBM (10/2025)
+**Data Science & AI Diploma** — Ironhack, Berlin (2025–2026) <br>
+**AWS Certified Cloud Practitioner** (11/2025) <br>
+**Generative AI for Data Analysts** — IBM (10/2025) <br>
 **Certified SQL Developer, Professional Level** — W3Schools (05/2025)
+
+**Before tech** <br>
+State-Certified Sound Designer — Berlin *(systems thinking, DSP, complex data-stream management)* <br>
+Master's-level degree in Fine Arts (Media Art) — Academy of Fine Arts Leipzig (HGB) *(German Diplom)*
 
 ## Languages
 
